@@ -161,7 +161,7 @@ remover arquivo
 ```
 git rm -r diretorio
 ```
-## Comandos para desfazeroperações
+## Comandos para desfazer operações
 ---
 ### **git checkout -- <file> | git checkout Head <file> **
 Desfazendo alteração local (working directory) de um arquivo. 
