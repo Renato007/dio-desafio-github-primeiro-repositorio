@@ -195,6 +195,4 @@ git reset -hard <commit>
 # Você já ouviu falar de Git Flow?
 É um fluxo de trabalho para o Git criado para facilitar o processo de desenvolvimento com uma série de comandos novos. O nome por trás desse modelo é Vincent Driessen que, em 2010, escreveu em seu blog pessoal a maneira que ele pensou ser a mais simples de se trabalhar com o Git em larga escala.
 
-![olá](./src/assets/git-flow.png)
-
 Saiba mais <https://blog.betrybe.com/git/git-flow/#1>
